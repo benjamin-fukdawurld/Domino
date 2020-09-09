@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Dominos/27.png</file>
+        <file>Dominos/26.png</file>
+        <file>Dominos/25.png</file>
+        <file>Dominos/24.png</file>
+        <file>Dominos/23.png</file>
+        <file>Dominos/22.png</file>
+        <file>Dominos/21.png</file>
+        <file>Dominos/20.png</file>
+        <file>Dominos/19.png</file>
+        <file>Dominos/18.png</file>
+        <file>Dominos/17.png</file>
+        <file>Dominos/16.png</file>
+        <file>Dominos/15.png</file>
+        <file>Dominos/14.png</file>
+        <file>Dominos/13.png</file>
+        <file>Dominos/12.png</file>
+        <file>Dominos/11.png</file>
+        <file>Dominos/10.png</file>
+        <file>Dominos/9.png</file>
+        <file>Dominos/8.png</file>
+        <file>Dominos/7.png</file>
+        <file>Dominos/6.png</file>
+        <file>Dominos/5.png</file>
+        <file>Dominos/4.png</file>
+        <file>Dominos/3.png</file>
+        <file>Dominos/2.png</file>
+        <file>Dominos/1.png</file>
+        <file>Dominos/0.png</file>
+    </qresource>
+</RCC>
